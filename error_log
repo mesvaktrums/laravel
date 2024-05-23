@@ -1,0 +1,10 @@
+[30-Apr-2024 13:10:38 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:10:43 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:11:01 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:11:07 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:11:14 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:11:19 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:12:46 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:14:26 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:14:44 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
+[30-Apr-2024 13:15:54 Australia/Sydney] PHP Fatal error:  Cannot redeclare App\Console\Kernel::schedule() in /home/meromedi/meromedika/app/Console/Kernel.php on line 21
